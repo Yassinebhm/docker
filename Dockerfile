@@ -16,6 +16,6 @@ ENV HOME /root
 
 WORKDIR /root
 
-ENTRYPOINT [“ping”]
+ENTRYPOINT ["ping"]
 
-CMD [“google.com”]
+CMD ["google.com"]
